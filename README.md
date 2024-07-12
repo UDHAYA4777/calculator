@@ -4,6 +4,3 @@ Welcome to the Modern Calculator project! This project aims to create a sleek, u
 
 Features
 Basic Arithmetic Operations: Addition, subtraction, multiplication, and division.
-Scientific Functions: Trigonometric, logarithmic, and exponential functions.
-History Tracking: Keeps a record of previous calculations.
-Modern UI: A clean, intuitive user interface.
